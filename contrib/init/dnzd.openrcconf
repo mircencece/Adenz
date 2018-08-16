@@ -1,0 +1,26 @@
+# /etc/conf.d/dnzd: config file for /etc/init.d/dnzd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/dnz/dnz.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/dnzd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/dnzd.pid"
+
+# Where to write dnzd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/dnzd"
+
+# User and group to own dnzd process
+#BITCOIND_USER="dnz"
+#BITCOIND_GROUP="dnz"
+
+# Path to dnzd executable
+#BITCOIND_BIN="/usr/bin/dnzd"
+
+# Nice value to run dnzd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

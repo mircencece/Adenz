@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/dnz_bg.qm</file>
+        <file alias="de">locale/dnz_de.qm</file>
+        <file alias="en">locale/dnz_en.qm</file>
+        <file alias="es">locale/dnz_es.qm</file>
+        <file alias="fi">locale/dnz_fi.qm</file>
+        <file alias="fr">locale/dnz_fr.qm</file>
+        <file alias="it">locale/dnz_it.qm</file>
+        <file alias="ja">locale/dnz_ja.qm</file>
+        <file alias="pl">locale/dnz_pl.qm</file>
+        <file alias="pt">locale/dnz_pt.qm</file>
+        <file alias="ru">locale/dnz_ru.qm</file>
+        <file alias="sk">locale/dnz_sk.qm</file>
+        <file alias="sv">locale/dnz_sv.qm</file>
+        <file alias="vi">locale/dnz_vi.qm</file>
+        <file alias="zh_CN">locale/dnz_zh_CN.qm</file>
+        <file alias="zh_TW">locale/dnz_zh_TW.qm</file>
+    </qresource>
+</RCC>

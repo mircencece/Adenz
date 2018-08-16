@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=DNZ
+Comment=DNZ P2P Cryptocurrency
+Comment[fr]=DNZ, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=DNZ, eşten eşe kriptografik sanal para birimi
+Exec=dnz-qt %u
+Terminal=false
+Type=Application
+Icon=dnz128
+MimeType=x-scheme-handler/dnz;
+Categories=Office;Finance;
